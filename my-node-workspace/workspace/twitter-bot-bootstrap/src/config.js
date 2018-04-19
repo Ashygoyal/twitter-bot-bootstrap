@@ -17,11 +17,12 @@
 require('dotenv').config(); 
 
 module.exports = {
-  consumer_key: 'BYT4tdnT5ITxRY3keX7CNwvhG',
-  consumer_secret: 'd2kf2lzq4nXEikpsQepsBBBuiTsxD4Tn6iIbScYKoVOJGrFuWm',
-  access_token: '147808626-z6JMuIgG6ErBEuId0nNuESXYIINz0GsAO1CpSHYV',
-  access_token_secret: 'foT8Z77X4hXvMw20xRiOrXS5tVc5LkH6ctpVQceBpOzZx'
+  consumer_key: 'xxxxxxxxx',
+  consumer_secret: 'xxxxxxxxx',
+  access_token: 'xxxxxxxxx',
+  access_token_secret: 'xxxxxxxxx'
 }
 
+// Add your custom tokens in place of xxxxxxxxx
 
 
